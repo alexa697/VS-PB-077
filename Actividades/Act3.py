@@ -73,4 +73,27 @@ print(' 5. Dispositivos de salida: Analogía: Los músculos y las cuerdas vocale
 print('Explicación: Los dispositivos de salida nos permiten obtener información de la computadora.')
 print(' ')
 print('Ejercicio 9')
+print('¿Cómo puedes corregir un error de sintaxis?')
+#Lee detenidamente el mensaje de error:
+#Ubicación: El mensaje suele indicar la línea exacta donde se encuentra el error.
+#Descripción: Te dará una idea general del tipo de error (por ejemplo, falta una coma, un paréntesis no cerrado, etc.).
+
+#Compara con la sintaxis correcta:
+#Consulta la documentación: Busca la sintaxis correcta de la función, estructura o palabra clave que estás utilizando.
+#Ejemplos: Intenta encontrar ejemplos similares en la documentación o en otros códigos.
+
+# Revisa los detalles:
+#Mayúsculas y minúsculas: Los lenguajes de programación suelen ser sensibles a las mayúsculas y minúsculas.
+#Puntuación: Asegúrate de que todos los signos de puntuación estén en el lugar correcto.
+#Palabras reservadas: No uses palabras reservadas del lenguaje como nombres de variables.
+#Indentación: En algunos lenguajes, la indentación es importante para definir bloques de código.
+
+#Busca errores comunes:
+#Falta de comillas: Asegúrate de que las cadenas de texto estén encerradas entre comillas.
+#Paréntesis no cerrados: Verifica que todos los paréntesis, corchetes y llaves estén correctamente emparejados.
+#Operadores incorrectos: Asegúrate de usar los operadores correctos (por ejemplo, == para comparar igualdad, = para asignación).
+
+#Utiliza un depurador:
+#Ejecución paso a paso: Un depurador te permite ejecutar tu código línea por línea y ver el valor de las variables en cada paso.
+#Puntos de interrupción: Puedes establecer puntos de interrupción en el código para detener la ejecución y examinar el estado del programa en ese punto.
 print(' ')
