@@ -1,6 +1,3 @@
-#Actividad 1
-print ('Hola mundo')
-
 #Actividad 2
 
 a=int(input("ingrese el primer número: "))
@@ -10,5 +7,3 @@ print("adición = ",a + b)
 print("sustracción = ",a - b)
 print("multiplicación = ",a * b)
 print("división = ",a / b)
-
-#Actividad 3
